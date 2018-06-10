@@ -33229,7 +33229,7 @@ local.stateInit({
             "npm_package_homepage": "https://github.com/npmtest/node-npmtest-chalk",
             "npm_package_name": "npmtest-chalk",
             "npm_package_nameLib": "npmtest_chalk",
-            "npm_package_version": "0.0.4"
+            "npm_package_version": "2018.6.10"
         }
     }
 });
